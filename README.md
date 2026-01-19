@@ -2,7 +2,7 @@
 
 
 
-I'm Angelrita (Rihrih), a Computer Science & AI student who enjoys turning ideas into working systems.
+I'm Angelrita, a Computer Science & AI student who enjoys turning ideas into working systems.
 I work across software development, data analysis, and machine learning, with a strong focus on hands-on projects.
 
 🔭 Currently working on
