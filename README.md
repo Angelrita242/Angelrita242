@@ -19,8 +19,10 @@ I work across software development, data analysis, and machine learning, with a 
 - Flask, Django
 - Git & GitHub
 
+
+<!-- 
 📌 Projects
-<!-- I’ve got several pinned projects below — each one reflects something I learned by building it.
+I’ve got several pinned projects below — each one reflects something I learned by building it.
 More projects are always in progress.-->
 
 📫 How to reach me
