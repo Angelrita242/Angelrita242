@@ -19,11 +19,9 @@ I work across software development, data analysis, and machine learning, with a 
 - Flask, Django
 - Git & GitHub
 
-
-<!-- 
-📌 Projects
+**📌 Projects**
 I’ve got several pinned projects below — each one reflects something I learned by building it.
-More projects are always in progress.-->
+More projects are always in progress.
 
 **📫 How to reach me**
 - GitHub: https://github.com/Angelrita242 you’re already here 😏
